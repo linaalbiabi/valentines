@@ -1,0 +1,28 @@
+h1{
+    color:#f36f6f;
+    text-align:center;
+    font-family:monospace;
+}
+
+p{
+    color:#f36f6f;
+    text-align:center;
+    font-family:monospace;
+    font-size:medium;
+}
+
+img{
+    width: 70%;
+    height:77%;
+}
+
+.btn{
+    background-color:#f36f6f;
+    text-align:center;
+    font-family:monospace;
+    font-size:x-small;
+    color: white;
+    padding:10px 15px;
+    border: none;
+    border-radius:5px;
+}
